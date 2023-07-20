@@ -11,10 +11,10 @@ class VideoCallScreen extends StatefulWidget {
 class _VideoCallScreenState extends State<VideoCallScreen> {
   final _client = AgoraClient(
     agoraConnectionData: AgoraConnectionData(
-      appId: 'adecb4f3dd7a452b99ea0c9f482f648f',
-      channelName: 'testChannel',
+      appId: 'a6810f83c0c549aab473207134b69489',
+      channelName: 'testChan',
       tempToken:
-          '007eJxTYBB+Wbr8ueSdL7Xxl+8U31KSnxw9Wfv1LT89G7M5XL13/qkrMCSmpCYnmaQZp6SYJ5qYGiVZWqYmGiRbpplYGKWZmVikmfBPTWkIZGSos/dgZGSAQBCfm6EktbjEOSMxLy81h4EBAKkKItI=',
+          '007eJxTYCiP+PPqUbH+lMxJmzQcmaaVnL61ce3FCkE7pvt3siU26okoMCSaWRgapFkYJxskm5pYJiYmmZgbGxmYGxqbJJlZmlhYVhzckdIQyMjgU3GUmZEBAkF8DoaS1OIS54zEPAYGANzHIMs=',
       uid: 12,
     ),
   );
