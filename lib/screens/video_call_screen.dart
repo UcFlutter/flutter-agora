@@ -14,7 +14,7 @@ class _VideoCallScreenState extends State<VideoCallScreen> {
       appId: 'a6810f83c0c549aab473207134b69489',
       channelName: 'testChan',
       tempToken:
-          '007eJxTYCiP+PPqUbH+lMxJmzQcmaaVnL61ce3FCkE7pvt3siU26okoMCSaWRgapFkYJxskm5pYJiYmmZgbGxmYGxqbJJlZmlhYVhzckdIQyMjgU3GUmZEBAkF8DoaS1OIS54zEPAYGANzHIMs=',
+          '007eJxTYJArTuo5rG/wZoJ205uFjlseOuet8dzyLXPJs3ib6c7RmTMUGBLNLAwN0iyMkw2STU0sExOTTMyNjQzMDY1NkswsTSwsjXV3pTQEMjJE34tiZGSAQBCfg6EktbjEOSMxj4EBANJFIIA=+PPqUbH+007eJxTYJArTuo5rG/wZoJ205uFjlseOuet8dzyLXPJs3ib6c7RmTMUGBLNLAwN0iyMkw2STU0sExOTTMyNjQzMDY1NkswsTSwsjXV3pTQEMjJE34tiZGSAQBCfg6EktbjEOSMxj4EBANJFIIA=',
       uid: 12,
     ),
   );
